@@ -1,0 +1,20 @@
+1. Coding Challenge: Create a simple HTML page that includes a header, a paragraph of text, an image, and a link to another page. (Push the code to Github and Share Github URL)
+
+2. Coding Challenge: Style an HTML page using CSS, including changing the font, font size, font color, background color, and adding a border to an HTML element. (Push the code to Github and Share Github URL)
+
+3. Coding Challenge: Create a simple JavaScript program that takes user input and outputs the result to the console, including a loop and a conditional statement. (Push the code to Github and Share Github URL)
+
+4. Coding Challenge: Create a simple HTML page using Bootstrap, including a grid system and a navigation bar. (Push the code to Github and Share Github URL)
+
+5. Coding Challenge : Create a HTML form with two input fields: username and password. Add a submit button to the form.  (Push the code to Github and Share Github URL)
+
+6. )Coding Challenge: Write a CSS code to center an element horizontally and vertically on a page. (Push the code to Github and Share Github URL)
+
+7. )Coding Challenge : Write a CSS code to create a responsive navigation bar that collapses into a hamburger menu on small screens. (Push the code to Github and Share Github URL)
+
+8. Coding Challenge: Write a function that accepts an array of integers and returns the sum of all the even numbers in the array. (Push the code to Github and Share Github URL)
+
+9. Coding Challenge: Write a function that takes a string as input and returns the number of vowels in the string. (Push the code to Github and Share Github URL)
+
+10. )Coding Challenge:  Write a JavaScript code to fetch data from an API endpoint and display the results in a web page. (Push the code to Github and Share Github URL)
+
